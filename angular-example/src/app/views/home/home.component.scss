@@ -1,0 +1,12 @@
+.container {
+    position: static;
+    align-items: top;
+    min-height: 40px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 1200px;
+    margin-top: 6em;
+    margin-bottom: 30px;
+  }
